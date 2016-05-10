@@ -157,16 +157,6 @@
 
 	};
 
-//Arrow Click
-	// var faqsArrowClick = function(){
-	// 	var faqArr = $('.faq-accordion-icon-toggle');
-
-	// 	faqArr.on('click', function(){
-	// 		faqsAccordion();
-	// 	})
-	// 	console.log('hello world')
-	// }
-
 	// Click outside of offcanvass
 	var mobileMenuOutsideClick = function() {
 		$(document).click(function (e) {
