@@ -1,0 +1,28 @@
+{
+  "name": "dali17",
+  "version": "1.0.0",
+  "description": "TITLE:  Outline - Responsive Free HTML5 template",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/spiterman/Museum.git"
+  },
+  "keywords": [
+    "dali",
+    "museum"
+  ],
+  "author": "Sergey Piterman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/spiterman/Museum/issues"
+  },
+  "homepage": "https://github.com/spiterman/Museum#readme",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.1",
+    "run-sequence": "^1.2.2"
+  }
+}
